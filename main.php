@@ -1,6 +1,6 @@
 <?php
 
-array blessings(
+$blessings = array(
   "May your coat smell unexpectedly nice.",
   "May you receive a compliment that you haven't heard before.",
   "May traffic be unusually accomodating to you.",
@@ -32,8 +32,8 @@ array blessings(
   "May you laugh uncontrollably about something today.",
 );
 
-i = rand(0, length(blessings)-1);
+$i = rand(0, count($blessings)-1);
 
-print blessings[i];
+print $blessings[$i];
 
 ?>

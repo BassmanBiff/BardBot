@@ -29,7 +29,7 @@ $blessings = array(
   "May you rediscover something beautiful around you.",
   "May you dream of something pleasant.",
   "May you remember a forgotten passion.",
-  "May you laugh uncontrollably about something today.",
+  "May you laugh uncontrollably about something today."
 );
 
 $i = rand(0, count($blessings)-1);

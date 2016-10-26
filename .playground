@@ -1,0 +1,8 @@
+{
+  "project_name": "BardBot",
+  "project_description": "Blessings provider for BardBot",
+  "show_files": [
+    "BardBot.php",
+    "app.yaml"
+  ],
+}
